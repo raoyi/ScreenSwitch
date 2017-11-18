@@ -1,0 +1,2 @@
+# ScreenSwitch
+automatic screen switch
