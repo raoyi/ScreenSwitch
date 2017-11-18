@@ -1,2 +1,2 @@
 # ScreenSwitch
-automatic screen switch
+关闭显示器
